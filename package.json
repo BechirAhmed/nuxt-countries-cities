@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-countries-cities",
+  "version": "1.0.9",
+  "description": "List of countries and cities made for Vue.js",
+  "main": "nuxtCountriesCities.vue",
+  "type": "commonjs",
+  "keywords": [
+    "vuejs",
+    "vue",
+    "countries",
+    "cities",
+    "countries-cities-list",
+    "vue-countries-cities"
+  ],
+  "author": "Bechir El Bechir",
+  "license": "MIT",
+  "repository": "https://github.com/mehmetsagir/vue-countries-cities",
+  "homepage": "https://github.com/mehmetsagir/vue-countries-cities/blob/master/README.md/"
+}
